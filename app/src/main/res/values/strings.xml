@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="Edit00" />
+    <string name="Edit01" />
+    <string name="Text00">Products</string>
+    <string name="Boutton00">ADD</string>
 </resources>
